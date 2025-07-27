@@ -1,6 +1,7 @@
 # CogniLearn - AI-Powered Adaptive Learning Platform
 
-![Homepage and Dashboard](./images/amdocs_logo.png)
+<img src="./images/amdocs_logo.png" alt="Logo" height="400" width="1000"/>
+
 *This project was build under Amdocs GenAI Hackathon conducted by Amdocs during Jan 2025 to April 2025, nation wide.*
 
 CogniLearn is an AI-powered adaptive learning platform that personalizes education through intelligent recommendations, quizzes, research analysis, and performance insights.
